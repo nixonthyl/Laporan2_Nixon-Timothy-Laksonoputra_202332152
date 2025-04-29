@@ -1,0 +1,47 @@
+/* Set the font size for the report title */
+.judullaporan {
+    font-size: 16px;
+}
+
+/* Set the background color to blue, text color to yellow, and font size for my name */
+.nama {
+    background-color: blue;
+    color: yellow;
+    font-size: 29px;
+}
+
+/* Set the text color to blue and font size for my student ID */
+.nim {
+    color: blue;
+    font-size: 29px;
+}
+
+/* Center-align the first paragraph text and set the font size */
+.paragraf1 {
+    text-align: center;
+    font-size: 18.7px;
+}
+
+/* Right-align the second paragraph text and set the font size */
+.paragraf2 {
+    text-align: right;
+    font-size: 19px;
+}
+
+/* Style the highlighted word with blue background and yellow text */
+.mark-biru {
+    background-color: blue;
+    color: yellow;
+}
+
+/* Style the highlighted word with yellow background */
+.mark-kuning {
+    background-color: yellow;
+}
+
+/* Style the YouTube link: black text color, no underline, and set font size */
+.linkyt a {
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+}
